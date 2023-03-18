@@ -1,9 +1,0 @@
-name: hello-github-actions
-on: [push]
-jobs:
-  my-first-job:
-    runs-on: macos-12
-    steps:
-      - name: hello
-        run: |
-          echo "hello actions"
