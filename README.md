@@ -1,2 +1,2 @@
 # hello-github-actions
-just learning github actions
+just learning github actions.
